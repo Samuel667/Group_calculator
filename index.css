@@ -1,0 +1,16 @@
+.container {
+height: 500px;
+width: 270px;
+/* color:blueviolet; */
+background-color: rebeccapurple;
+/* margin-top: 30px; */
+}
+.ps{
+    margin-top: 3px;
+
+}
+.pt{
+height: 50px;
+width:50px;
+border-top: 100px;
+}
